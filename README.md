@@ -47,3 +47,5 @@ You can get your own fork/copy of [HacktoberFest-2022](https://github.com/kishan
 <a href="https://github.com/Datrye24/Hacktoberfest-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Datrye24/Hacktoberfest-2022" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
